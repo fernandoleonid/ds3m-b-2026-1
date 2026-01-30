@@ -10,7 +10,8 @@ Pesquisar, instalar, configurar e utilizar um framework front-end, compreendendo
 1. Angular  
 2. Vue.js  
 3. React  
-4. Svelte  
+4. Svelte
+5. Qwik  
 
 ---
 
