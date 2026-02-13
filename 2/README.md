@@ -12,8 +12,8 @@ O projeto é o gerenciamento da escola Lion School, deverá ser realizado soment
 Deverá consumir a API e criar as páginas conforme o designer feito no [figma](https://www.figma.com/file/KhTQbG1DY0MdAIGK73ZWp8/PWFE---Trabalho-Integrado?node-id=0%3A1).
 
 ## Backend
-[Lion school](https://lion-school-phbo.onrender.com/)
-
+[Opção 1](https://lion-school-phbo.onrender.com/)
+[Opção 2](https://lion-school-backend.onrender.com/)
 ### Critérios 
 - [ ] Criou layout conforme designer feito no Figma?
 - [ ] Os botões dos cursos são dinâmicos?
@@ -29,3 +29,4 @@ Deverá consumir a API e criar as páginas conforme o designer feito no [figma](
 
 ### Professores
 - [Fernando Leonid](https://github.com/fernandoleonid)
+
